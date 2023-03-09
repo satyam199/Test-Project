@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575023293340",
+    "project_id": "hashstudioz-52903",
+    "storage_bucket": "hashstudioz-52903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575023293340:android:a5b1ef1e545a94c686de59",
+        "android_client_info": {
+          "package_name": "com.secondproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575023293340-0k76q4cku9jbs7mm3l8hsqfq7l5idcn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXlUTNLea5DF-DPW3UNROm37-7I8Jp4xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575023293340-0k76q4cku9jbs7mm3l8hsqfq7l5idcn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
